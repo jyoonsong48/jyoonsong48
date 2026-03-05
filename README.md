@@ -1,16 +1,12 @@
-## Hi there 👋
+ ## $\bf{Welcome!}$ 
 
-<!--
-**jyoonsong48/jyoonsong48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 📖 Year 2 of undergraduate study at Coventry University, studying Human Biosciences
+<br> 🌱 Currently learning/working on: R-studio, Python
+<br> 😄 Pronouns: she/her
+<br> 📣 Language: Korean (native), English (C2), Spanish (A2-B1), Mandarin (A1)
+<br> 📫 How to reach me: jyoon.song48@gmail.com
+***
+<span style="color:indigo">Shortcuts</span>
+<br> - [Academic-Archive](./Academic-Archive)
+<br> - [Research-Archive](./Reserach-Archive)
+<br> - [Learning-Note](./Learning-Note)
