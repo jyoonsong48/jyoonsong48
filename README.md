@@ -4,7 +4,8 @@
 <br> $\color{#97BFB4}{\text{🌱 Currently learning/working on: R-studio, Python}}$
 <br> $\color{#97BFB4}{\text{😄 Pronouns: she/her}}$
 <br> $\color{#97BFB4}{\text{📣 Language: Korean (native), English (C2), Spanish (A2-B1), Mandarin (A1)}}$
-<br> $\color{#97BFB4}{\text{📫 How to reach me:}}$ <kbd> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyoon-song548/) </kbd>
+<br> $\color{#97BFB4}{\text{📫 How to reach me:}}$ 
+<br> <kbd> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyoon-song548/) </kbd>
 
 ***
 $\color{pink}{\text{𝐒𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬}}$
