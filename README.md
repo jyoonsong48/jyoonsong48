@@ -9,4 +9,4 @@
 $\color{pink}{\text{𝐒𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬}}$
 <br> 🔗 <kbd> [![Academic-Archive](https://img.shields.io/badge/Academic--Archive-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive) </kbd>
 <br> 🔗 <kbd> [![Research-Archive](https://img.shields.io/badge/Research--Archive-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Reserach-Archive) </kbd>
-<br> 🔗 <kbd> [![Learning-Notes](https://img.shields.io/badge/Learning--Notes-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Learning-Notes) </kbd>
+<br> 🔗 <kbd> [![Learning-Note](https://img.shields.io/badge/Learning--Note-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Learning-Note) </kbd>
