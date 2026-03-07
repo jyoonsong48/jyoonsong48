@@ -9,7 +9,7 @@
 - $\color{#fffff}{\text{Data: Learning in Progress...(R (T-test, ANOVA), Python (Pandas))}}$
 - $\color{#fffff}{\text{Languages: Korean (Native), English (C2), Spanish (B1), Mandarin (A1)}}$
 
-**👉** <kbd> [![View Full Skill Matrix](https://img.shields.io/badge/View_Full_Skill_Matrix-97BFB4?style=for-the-badge)](./Academic-Archive/Labs/SKILL_MATRIX.md) </kbd>
+**👉** <kbd> [![View Full Skill Matrix](https://img.shields.io/badge/View_Full_Skill_Matrix-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/SKILL_MATRIX.md) </kbd>
 
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞:
