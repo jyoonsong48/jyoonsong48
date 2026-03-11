@@ -5,7 +5,7 @@
 <br> $\text{🌱 Currently learning/working on: R-studio, Python}$
 
 ## 🛠 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-- $\text{Core: Molecular Cloning, PCR, Clinical Microbiology, Human Physiology}$
+- $\text{Core: PCR, Clinical Microbiology, Human Physiology}$
 - $\text{Data: Learning in Progress...(R, Python)}$
 - $\text{Languages: Korean (Native), English (C1), Spanish (A2-B1), Mandarin (A1)}$
 
