@@ -19,3 +19,8 @@
 <br> 🔗 <kbd> [![Academic-Archive](https://img.shields.io/badge/Academic--Archive-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive) </kbd>
 <br> 🔗 <kbd> [![Research-Archive](https://img.shields.io/badge/Research--Archive-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Research-Archive) </kbd>
 <br> 🔗 <kbd> [![Learning-Note](https://img.shields.io/badge/Learning--Note-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Learning-Note) </kbd>
+
+## 🔧 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐦𝐚𝐝𝐞!
+### $\text{📍 VeniVidiOri}$
+$\text{: Tool for Finding DnaA Boxes in Bacteria via Minimum Skew and Mismatch Search with FASTA}$ 
+<br> 🔗 <kbd> [![VeniVidiOri](https://img.shields.io/badge/VeniVidiOri-97BFB4?style=for-the-badge)](https://colab.research.google.com/github/jyoonsong48/Learning-Note/blob/main/Finding-Hidden-Messages-in-DNA/VeniVidiOri.ipynb) </kbd>
