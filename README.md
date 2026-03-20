@@ -29,5 +29,5 @@ $\text{: Tool for Finding DnaA Boxes in Bacteria via Minimum Skew and Mismatch S
 <br> $\text{2. Press the button above!}$
 <br> $\text{3. When redirected, press Run (▶)}$
 <br> $\text{4. Scroll down and attach the FASTA file}$
-<br> $\text{5. All done! Now you've vidi the Ori!}$
+<br> $\text{5. All done! Now you 'vidi' the Ori!}$
 </details>
