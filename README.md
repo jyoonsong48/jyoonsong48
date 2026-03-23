@@ -1,7 +1,14 @@
    ![header](https://capsule-render.vercel.app/api?type=venom&&color=97BFB4&height=250&section=header&text=Welcome!&animation=blink&fontColor=F5EEDC)
 
 
-<br> $\text{🖐 How to pronounce my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://raw.githubusercontent.com/jyoonsong48/personal/main/jiyoon.mp3) </kbd>
+` <br> $\text{🖐 How to pronounce my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://raw.githubusercontent.com/jyoonsong48/personal/main/jiyoon.mp3) </kbd> `
+<br> 
+$\text{🖐 How to pronounce my name: }$ 
+<details>
+  <summary><b>Click to Listen (🔊)</b></summary>
+  <audio src="https://raw.githubusercontent.com/jyoonsong48/personal/main/jiyoon.mp3" controls>
+  </audio>
+</details>
 <br> $\text{📖 Me: Year 2 of undergraduate study at 𝐂𝐨𝐯𝐞𝐧𝐭𝐫𝐲 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, studying 𝐇𝐮𝐦𝐚𝐧 𝐁𝐢𝐨𝐬𝐜𝐢𝐞𝐧𝐜𝐞𝐬}$
 <br> $\text{😄 Pronouns: she/her}$
 <br> $\text{🌱 Currently learning/working on: R-studio, Python}$
