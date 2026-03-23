@@ -1,7 +1,11 @@
    ![header](https://capsule-render.vercel.app/api?type=venom&&color=97BFB4&height=250&section=header&text=Welcome!&animation=blink&fontColor=F5EEDC)
 
 
-<br> $\text{🖐 How to pronounce my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd> 
+<br> $\text{🖐 How to pronounce my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
+<details><summary>$\color{#fffff}{\text{❗}}$ </summary>
+   $\text{If it's difficult for you, you can simply call me June (as in the month of June ♪´▽｀)}$
+   </details>
+   
 <br> $\text{📖 Me: Year 2 of undergraduate study at 𝐂𝐨𝐯𝐞𝐧𝐭𝐫𝐲 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, studying 𝐇𝐮𝐦𝐚𝐧 𝐁𝐢𝐨𝐬𝐜𝐢𝐞𝐧𝐜𝐞𝐬}$
 <br> $\text{😄 Pronouns: she/her}$
 <br> $\text{🌱 Currently learning/working on: R-studio, Python}$
