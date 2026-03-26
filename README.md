@@ -37,3 +37,16 @@ $\text{: Tool for Finding DnaA Boxes in Bacteria via Minimum Skew and Mismatch S
 <br> $\text{4. Scroll down and attach the FASTA file}$
 <br> $\text{5. All done! Now you 'vidi' the Ori!}$
 </details>
+
+### $\text{Gel Electrophoresis Pomodoro Timer}$
+$\text{: Pomodoro timer in the format of Gel Electrophoresis}$ 
+<br> 🔗 <kbd> [![Gel Electrophoresis Pomodoro Timer](https://img.shields.io/badge/🍅-97BFB4?style=for-the-badge)](https://jyoonsong48.github.io/GelElectrophoresisPomodoro/) </kbd>
+
+<details><summary>$\color{#fffff}{\text{How to use:}}$ </summary>
+<br> $\text{1. Click to start!}$
+<br> $\text{2. Use pipette to load the sample into wells. (If you are on mobile, you should touch the screen to move pipette and touch again to load the samples.)}$
+<br> $\text{3. Press Start button (on bottom right)}$
+<br> $\text{4. Gel electrophoresis is running and you (should be) are doing your things.}$
+<br> $\text{5. After 50 minutes, you can check the result! (and the description)}$
+<br> $\text{Want another pomodoro? simply press Restart button ㅇ(*'▽'*)┛}$
+</details>
