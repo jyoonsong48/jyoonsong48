@@ -11,8 +11,8 @@
 <br> $\text{🌱 Currently learning/working on: R-studio, Python, Linux}$
 
 ## 🛠 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-- $\text{Core: PCR, Clinical Microbiology, Human Physiology}$
-- $\text{Data: Learning in Progress...(R, Python)}$
+- $\text{Core: Clinical Microbiology, Human Physiology, Genetics}$
+- $\text{Data: Learning in Progress...(R, Python, Linux)}$
 - $\text{Languages: Korean (Native), English (C1), Spanish (A2-B1), Mandarin (A1)}$
 
 **👉** <kbd> [![View Full Skill Matrix](https://img.shields.io/badge/View_Full_Skill_Matrix-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/SKILL_MATRIX.md) </kbd>
