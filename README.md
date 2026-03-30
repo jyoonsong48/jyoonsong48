@@ -8,7 +8,7 @@
    
 <br> $\text{📖 Me: Year 2 of undergraduate study at 𝐂𝐨𝐯𝐞𝐧𝐭𝐫𝐲 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, studying 𝐇𝐮𝐦𝐚𝐧 𝐁𝐢𝐨𝐬𝐜𝐢𝐞𝐧𝐜𝐞𝐬}$
 <br> $\text{😄 Pronouns: she/her}$
-<br> $\text{🌱 Currently learning/working on: R-studio, Python}$
+<br> $\text{🌱 Currently learning/working on: R-studio, Python, Linux}$
 
 ## 🛠 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
 - $\text{Core: PCR, Clinical Microbiology, Human Physiology}$
