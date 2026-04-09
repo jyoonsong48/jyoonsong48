@@ -50,3 +50,7 @@ $\text{: Pomodoro timer in the format of Gel Electrophoresis}$
 <br> $\text{5. After 50 minutes, you can check the result! (and the description)}$
 <br> $\text{Want another pomodoro? simply press Restart button ㅇ(*'▽'*)┛}$
 </details>
+
+### $\text{Font Changer}$
+$\text{: you write, my website change!}$
+<br> 🔗 <kbd> [![Gel Electrophoresis Pomodoro Timer](https://img.shields.io/badge/🖍-97BFB4?style=for-the-badge)](https://font-changer-js48.streamlit.app/) </kbd>
