@@ -1,7 +1,7 @@
    ![header](https://capsule-render.vercel.app/api?type=venom&&color=97BFB4&height=250&section=header&text=Welcome!&animation=blink&fontColor=F5EEDC)
 
 
-<br> $\text{🖐 How to pronounce my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
+<br> $\text{🖐 How to say my name: }$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
 <details><summary>$\color{#fffff}{\text{❗}}$ </summary>
    $\text{If it's difficult for you, you can simply call me June (as in the month of June)}$
    </details>
