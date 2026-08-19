@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquarda+Bastarda+9&color=97BFB4&vCenter=true&multiline=true&width=800&lines=Powered+by+Adenine%2C+Thymine%2C+Guanine%2C+Cytosine%2C+and+Caffeine.)](https://git.io/typing-svg)
 
-<br> 🖐 How to say my name:  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
+<br> $\text{🖐 How to say my name:}$  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
 <details><summary>$\color{#fffff}{\text{❗}}$ </summary>
    $\text{If it's difficult for you, you can simply call me June (as in the month of June)}$
    </details>
