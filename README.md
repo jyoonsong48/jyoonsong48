@@ -1,5 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F5EEDC&background=B1F2FF23&center=true&vCenter=true&width=435&lines=Jiyoon+Song)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=15&pause=1000&width=500&lines=Powered+by+Adenine%2C+Thymine%2C+Guanine%2C+Cytosine%2C+and+caffeine.)](https://git.io/typing-svg)
 
 <br> 🖐 How to say my name:  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
 <details><summary>$\color{#fffff}{\text{❗}}$ </summary>
