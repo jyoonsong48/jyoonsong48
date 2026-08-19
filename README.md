@@ -1,4 +1,4 @@
-   ![header](https://capsule-render.vercel.app/api?type=venom&&color=97BFB4&height=250&section=header&text=Jiyoon%20Song&animation=blink&fontColor=F5EEDC)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F5EEDC&background=B1F2FF23&center=true&vCenter=true&width=435&lines=Jiyoon+Song)](https://git.io/typing-svg)
 
 
 <br> 🖐 How to say my name:  <kbd> [![Play](https://img.shields.io/badge/🔊-97BFB4?style=for-the-badge)](https://namedrop.io/june48) </kbd>
