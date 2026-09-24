@@ -5,7 +5,7 @@
    $\text{If it's difficult for you, you can simply call me June (as in the month of June)}$
    </details>
    
-<br> 📖 Me: Year 2 of undergraduate study at **Coventry University**, studying **Human Biosciences**
+<br> 📖 Me: Year 3 of undergraduate study at **Coventry University**, studying **Human Biosciences**
 <br> 😄 Pronouns: she/her
 <br> 🌱 Currently learning/working on: R-studio, Python, ~~Linux~~
 
