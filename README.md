@@ -23,7 +23,7 @@
 ## 🌊 𝐒𝐨𝐦𝐞 𝐨𝐟 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 & 𝐓𝐨𝐨𝐥𝐬 (`/Tools` & `/Research-Archive`)
 
 - <kbd> [![DNAmeth._age](https://img.shields.io/badge/🧬%20Age%20Predictor%20via%20DNA%20methylation-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Research-Archive/blob/main/Public-Dataset-Analysis/methylation-age-predictor/README.md)</kbd> $\text{: Epigenetic age prediction pipeline using DNA methylation datasets from blood, saliva, and buccal cells.}$
-- <kbd> [![isitpatho](https://img.shields.io/badge/🔍%20Is%20It%20Pathogenic-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Tools/blob/main/academic/README.md)</kbd> $\text{: Variant pathogenicity lookup tool using Ensembl REST API and UniProt database.}$
+- <kbd> [![isitpatho](https://img.shields.io/badge/🔍%20Is%20It%20Pathogenic-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Is-It-Pathogenic/blob/main/README.md)</kbd> $\text{: Variant pathogenicity lookup tool using Ensembl REST API and UniProt database.}$
 - <kbd> [![VeniVidiOri](https://img.shields.io/badge/🦠%20VeniVidiOri-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Tools/blob/main/academic/README.md)</kbd> $\text{:Bacterial origin of replication (oriC) and DnaA box finder utilising minimum GC-skew algorithms with FASTA inputs.}$
 - <kbd> [![SUMMED.ai](https://img.shields.io/badge/📊%20SUMMED.ai-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/summed.ai/blob/main/README.md)</kbd>  $\text{: Automated PubMed literature summarisation tool with trend visualisations.}$
 
